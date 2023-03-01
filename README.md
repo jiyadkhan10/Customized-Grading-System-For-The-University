@@ -7,7 +7,9 @@ CS3001 Computer Networks
 # Description
 
 In this assignment, you have to design a program to implement the working of a customizedgrading system for the university. There are three types of users: <br />
+<br />
 ● Admin ● Teachers ● Students <br />
+<br />
 The users (teachers and students) will be treated as clients whereas the user (admin) will be the server who will maintain the complete database. The database files will be separated by teacher names. Initially, the database contains the record of only two teachers. There will only be one server whereas there can be multiple clients for teachers and students.  <br />
 
 # Instructions
@@ -25,5 +27,5 @@ There will only be one terminal for the server. There can be multiple teachers a
 
 # Note
 
-Write a 1 pager report to explain how your code works. Mention your strategy used for the functionality implemented. <br />
+Write a one pager report to explain how your code works. Mention your strategy used for the functionality implemented. <br />
 The Description.pdf contains the detailed description of this repository.<br />
