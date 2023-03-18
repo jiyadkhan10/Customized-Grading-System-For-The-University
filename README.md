@@ -27,5 +27,6 @@ There will only be one terminal for the server. There can be multiple teachers a
 
 # Note
 
-Write a one pager report to explain how your code works. Mention your strategy used for the functionality implemented. <br />
+Write a one page report to explain how your code works. Mention your strategy used for the functionality implemented. <br />
+<br />
 The Description.pdf contains the detailed description of this repository.<br />
